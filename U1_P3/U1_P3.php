@@ -37,7 +37,7 @@ switch ($d) {
 echo "<br>";
 $d = date("D");
 echo $d . "<br>";
-if ($d == "Tue") {
+if ($d == "Mon") {
     echo "Have a nice day" . "<br>";
 } else {
     echo "Have a great day" . "<br>";
